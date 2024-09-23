@@ -2,17 +2,6 @@
 
 This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
 
 ## Overview
 
@@ -31,12 +20,7 @@ Users should be able to:
 
 ![](screenshot.png)
 
-### Links
 
-- Solution URL: [https://github.com/SyedZawwarAhmed/Rest-Countries-API](https://github.com/SyedZawwarAhmed/Rest-Countries-API)
-- Live Site URL:[https://syedzawwarahmed.github.io/Countries-of-the-World/](https://syedzawwarahmed.github.io/Countries-of-the-World/)
-
-## My process
 
 ### Built with
 
@@ -69,9 +53,3 @@ fetch("https://restcountries.eu/rest/v2/all")
 - [Stack Overflow](https://www.stackoverflow.com) - As always, when I got stuck, stackoverflow helped me get through.
 - [w3Schools](https://www.w3schools.com) - In my opinion, this is the best website for documentation with easily understandable code examples.
 
-## Author
-
-- Syed Zawwar Ahmed
-- Frontend Mentor - [@SyedZawwarAhmed](https://www.frontendmentor.io/profile/SyedZawwarAhmed)
-- Github - [@SyedZawwarAhmed](https://github.com/SyedZawwarAhmed)
-- Linkedin - [@SyedZawwarAhmed](https://www.linkedin.com/in/syed-zawwar-ahmed-b7345a1b8/)
